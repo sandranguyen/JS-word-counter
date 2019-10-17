@@ -1,0 +1,23 @@
+button {
+  margin-top: 10px;
+  display: block;
+}
+
+textarea {
+  box-shadow: 4px 4px 20px #4f4f4f;
+  resize: none;
+  border: none;
+  width: 800px;
+  height: 200px;
+}
+
+h2 {
+  display:inline;
+  font-size: 1.2em;
+}
+
+p {
+  -moz-column-count: 4;
+  -webkit-column-count: 4;
+  column-count: 4;
+}
